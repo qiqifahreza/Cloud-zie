@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/:match*",
+      "destination": "https://riverside-handmade-downloaded-twist.trycloudflare.com/:match*"
+    }
+  ]
+}
