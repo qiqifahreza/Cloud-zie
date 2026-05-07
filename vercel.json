@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:match*",
-      "destination": "https://knitting-ilustration-tactics-biggest.trycloudflare.com/:match*"
+      "destination": "https://knitting-illustration-tactics-biggest.trycloudflare.com/:match*"
     }
   ]
 }
