@@ -5,16 +5,5 @@
       "source": "/:match*",
       "destination": "https://cloud-zie.loca.lt/:match*"
     }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "x-forwarded-host",
-          "value": "cloud-zie.vercel.app"
-        }
-      ]
-    }
   ]
 }
